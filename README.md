@@ -59,7 +59,7 @@ I lead **Education and Awareness at The Root Access Network (TRAN)**, where I cr
 ## 📫 Connect with Me
 
 * **LinkedIn:** [Barakatullah Alawiye](https://www.linkedin.com/in/barakatullah-alawiye-4062902a7)
-* **Email:** (Optional)
+* **Email:** baarokah19@gamil.com
 
 > *“No pressure. No perfection. Just consistency.”*
 
