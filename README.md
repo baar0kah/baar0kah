@@ -13,6 +13,7 @@ I lead **Education and Awareness at The Root Access Network (TRAN)**, where I cr
 * Endpoint security and system hardening
 * Red/Blue team exercises through practical labs
 * Professional documentation of security findings
+* Advocating for individuals digital safety
 
 ---
 
@@ -33,6 +34,7 @@ I lead **Education and Awareness at The Root Access Network (TRAN)**, where I cr
 * ✅ Junior Cybersecurity Analyst Career Path (In Progress)
 * ✅ Networking Basics – Cisco
 * ✅ Packet Tracer – Cisco
+* ✅ Google Cybersecurity Certificate 
 * ✅ McKinsey Forward Program (2024)
 * 📘 Studying CompTIA Security+ concepts
 
