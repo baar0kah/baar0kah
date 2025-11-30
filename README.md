@@ -1,4 +1,4 @@
-# Hi, I'm Barakatullah Alawiye 👋🏽
+# Hi, I'm Barakatullah Alawiye 
 
 **Cybersecurity Professional | SOC & Blue Team Specialist | Network Security Enthusiast**
 
@@ -6,7 +6,7 @@ I lead **Education and Awareness at The Root Access Network (TRAN)**, where I cr
 
 ---
 
-## 🛡️ Focus Areas
+## Focus Areas
 
 * Security Operations Center (SOC) operations and monitoring
 * Network security and traffic analysis
@@ -16,7 +16,7 @@ I lead **Education and Awareness at The Root Access Network (TRAN)**, where I cr
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 * **Networking:** Cisco Packet Tracer, Networking Fundamentals
 * **Security Tools:** Nmap, OWASP ZAP, PuTTY
@@ -26,7 +26,7 @@ I lead **Education and Awareness at The Root Access Network (TRAN)**, where I cr
 
 ---
 
-## 🎓 Certifications & Learning
+##  Certifications & Learning
 
 * ✅ ISC² Cybersecurity Certification (CC)
 * ✅ Introduction to Cybersecurity – Cisco NetAcad
@@ -38,7 +38,7 @@ I lead **Education and Awareness at The Root Access Network (TRAN)**, where I cr
 
 ---
 
-## 📂 Selected Projects & Contributions
+##  Selected Projects & Contributions
 
 * **Network Security Labs** – Packet Tracer network designs & configurations
 * **Red Team Testing (EFIKO Project)** – Basic reconnaissance & login testing
@@ -47,7 +47,7 @@ I lead **Education and Awareness at The Root Access Network (TRAN)**, where I cr
 
 ---
 
-## 🌱 Strengths & Background
+##  Strengths & Background
 
 * Strong documentation and communication skills
 * Experience leading cybersecurity education initiatives
@@ -56,7 +56,7 @@ I lead **Education and Awareness at The Root Access Network (TRAN)**, where I cr
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 * **LinkedIn:** [Barakatullah Alawiye](https://www.linkedin.com/in/barakatullah-alawiye-4062902a7)
 * **Email:** baarokah19@gamil.com
@@ -65,8 +65,8 @@ I lead **Education and Awareness at The Root Access Network (TRAN)**, where I cr
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Barakatullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=baar0kah&show_icons=true&theme=radical)
 
-⭐ *Open to opportunities, collaborations, and mentoring in cybersecurity.*
+ *Open to opportunities, collaborations, and mentoring in cybersecurity.*
